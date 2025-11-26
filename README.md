@@ -1,5 +1,5 @@
 # Synapse X
-The **complete**, **unredacted** of the source code to a build of **Synapse X** dating from October 21, 2019.
+The **complete**, **unredacted** source code to a build of **Synapse X** dating from October 21, 2019.
 
 ## Why have we decided to do this?
 - The source code fell into the wrong hands, and the one that perpetrated such a thing is willing to sell the source code for monetary gain. Rather than having some poor people waste hundreds of dollars for an older version of the source code to our project, we highly prefer releasing it for free and have it be an educational opportunity for many.
@@ -19,9 +19,9 @@ The **complete**, **unredacted** of the source code to a build of **Synapse X** 
 
 # Reminder!⚠️
 
-- [Synapse X](https://x.synapse.to/) Has been shutdown since around 2023, if you are looking for any software offered by Synapse X, you will not find it.
+- [Synapse X](https://x.synapse.to/) Has been **shutdown** since around **2023**, if you are looking for any software offered by Synapse X, you will **not** find it.
 
 
 # Executors, for PC, Mobile, ECT.
 
-- If you are looking for executors, you can find some [here!](https://whatexpsare.online/)
+- If you are looking for **executors**, you can find some [here!](https://whatexpsare.online/)
