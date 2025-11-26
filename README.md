@@ -19,4 +19,4 @@ The **complete**, **unredacted** of the source code to a build of **Synapse X** 
 
 # Reminder!⚠️
 
-[Synapse X](https://x.synapse.to/) Has been shutdown since around 2023, if you are looking for any software offered by Synapse X, you will not find it.
+- [Synapse X](https://x.synapse.to/) Has been shutdown since around 2023, if you are looking for any software offered by Synapse X, you will not find it.
