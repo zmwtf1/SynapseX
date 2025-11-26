@@ -1,3 +1,3 @@
 # Synapse X Open Source UI
 
-- This folder contains all of the varying scripts in the Synapse X library.
+- This folder contains the open source UI of an outdated version of Synapse X.
