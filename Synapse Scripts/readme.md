@@ -1,3 +1,3 @@
-# Synapse X Scripr Library
+# Synapse X Script Library
 
 This folder contains all of the varying scripts from Synapse X.
